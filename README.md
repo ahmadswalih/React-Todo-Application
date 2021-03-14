@@ -1,6 +1,6 @@
 ## Simple React Todo application
 
-used Technologies
+
 
 
 
