@@ -1,13 +1,9 @@
-## Simple React Todo application
+##  React Todo application
 
 
- # Have a Look <a href="https://todo-app-swalih.netlify.app/">here</a>
+ ### Have a Look <a href="https://todo-app-swalih.netlify.app/">here</a>
 
-
-
-# Deep into Project 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Whole Project is Crafted using Bootstrap
 
 
 
